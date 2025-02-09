@@ -1,0 +1,23 @@
+const ListaPessoas = [
+    { id: 1, nome: 'Ana', idade: 25 },
+    { id: 2, nome: 'Carlos', idade: 30 },
+    { id: 3, nome: 'Beatriz', idade: 22 },
+    { id: 4, nome: 'Diego', idade: 27 },
+    { id: 5, nome: 'Eduarda', idade: 35 },
+    { id: 6, nome: 'Fernando', idade: 28 },
+    { id: 7, nome: 'Gabriela', idade: 24 },
+    { id: 8, nome: 'Henrique', idade: 33 },
+    { id: 9, nome: 'Isabela', idade: 21 },
+    { id: 10, nome: 'João', idade: 29 },
+    { id: 11, nome: 'Karina', idade: 26 },
+    { id: 12, nome: 'Lucas', idade: 32 },
+    { id: 13, nome: 'Mariana', idade: 23 },
+    { id: 14, nome: 'Natália', idade: 34 },
+    { id: 15, nome: 'Otávio', idade: 31 },
+    { id: 16, nome: 'Paula', idade: 27 },
+    { id: 17, nome: 'Ricardo', idade: 36 },
+    { id: 18, nome: 'Sofia', idade: 20 },
+    { id: 19, nome: 'Thiago', idade: 28 },
+    { id: 20, nome: 'Vanessa', idade: 25 },
+]
+export default ListaPessoas
